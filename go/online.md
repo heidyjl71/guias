@@ -1,5 +1,13 @@
 *Instalando y configurando GO: 
 https://medium.com/@golang_es/instalaci%C3%B3n-de-go-golang-6fd5d7b9eb48
+(GOROOT:directorio donde instalamos GO
+PATH: directorio donde instalamos GO/bin (el path debe quedar actualizado en variables de usuario y del sistema)
+)
+*Instalando librerias de google cloud en go y CREDENCIALES:
+https://cloud.google.com/storage/docs/reference/libraries#client-libraries-install-go
+(go get -u cloud.google.com/go/storage)
+
+
 * CRUD Go Bucket o deposito GC (documentacion de google):
 https://cloud.google.com/storage/docs/json_api/v1/
 * Archivo de ejemplo CRUD Go bucket o deposito GC: 
