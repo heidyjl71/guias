@@ -17,3 +17,6 @@ https://github.com/GoogleCloudPlatform/golang-samples/blob/master/storage/bucket
 https://tour.golang.org/welcome/1
 * Cargando archivos al bucket: 
 https://cloud.google.com/appengine/docs/standard/go/googlecloudstorageclient/read-write-to-cloud-storage?hl=es-419
+
+* Map, guia (foreach, range, is valid):
+https://blog.golang.org/go-maps-in-action
