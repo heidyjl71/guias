@@ -15,3 +15,5 @@ https://cloud.google.com/storage/docs/json_api/v1/
 https://github.com/GoogleCloudPlatform/golang-samples/blob/master/storage/buckets/main_test.go
 * Pasos tour de google (documentacion de google):
 https://tour.golang.org/welcome/1
+* Cargando archivos al bucket: 
+https://cloud.google.com/appengine/docs/standard/go/googlecloudstorageclient/read-write-to-cloud-storage?hl=es-419
